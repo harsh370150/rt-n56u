@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM Ubuntu:Trusty
 
 MAINTAINER Andy Voigt <voigt-andy@hotmail.de>
 
